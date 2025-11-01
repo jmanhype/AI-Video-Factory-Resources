@@ -1,0 +1,60 @@
+AI VIDEO FACTORY – STARTER CHECKLIST
+====================================
+
+From blank to posted in one sitting.
+
+□ STEP 1: CHOOSE YOUR TRACK
+  □ Face (digital twins)
+  □ B-Roll (stock + AI generation)
+  □ Product-Safe (claims + compliance)
+  □ Voiceover (script to audio)
+  □ Explainer (how-to content)
+
+□ STEP 2: DEFINE YOUR OUTCOME
+  Write in one line: "From [starting point] to [posted result]"
+
+  Example: "From product photo to 15-sec product demo posted on TikTok"
+
+□ STEP 3: GATHER YOUR ASSETS
+  □ Source footage / images (with usage rights)
+  □ Brand assets (logo, colors, fonts)
+  □ Script / talking points (if needed)
+  □ Voiceover audio (if needed)
+
+□ STEP 4: CHOOSE YOUR TOOLS
+  Advanced AI Video Creation:
+    □ Runway, Pika, or similar for advanced generation
+    □ Premiere/DaVinci for post-production
+
+  Digital Twin:
+    □ HeyGen, Synthesia, or D-ID for digital twin creation
+    □ Your reference footage (10-30 seconds)
+
+  Shorts & Reels:
+    □ CapCut, Runway, or Descript for quick editing
+    □ B-roll sources (Pexels, Pixabay, AI-generated)
+
+  Image Factory:
+    □ Midjourney, DALLE, or Stable Diffusion for image generation
+    □ Canva or Photoshop for thumbnails
+
+□ STEP 5: CREATE & POST
+  □ Generate/edit your content (target: under 30 minutes)
+  □ Export in platform format (9:16 for shorts, 16:9 for landscape)
+  □ Post immediately – no overthinking
+  □ Drop link in #proof-wednesday for feedback
+
+WEEKLY RITUALS:
+  □ Proof Wednesday – post before/after + prompt + lesson
+  □ Build Friday (10am CT) – live 10-min build session
+  □ Offer Sunday – share your offer (one post, one link)
+
+RESOURCES:
+  □ Members Area (Skool): [YOUR LINK]
+  □ Brand Charter: /common/brand-charter.md
+  □ Weekly Rituals: /common/weekly-rituals.md
+
+REMEMBER:
+Promise: From blank to posted in one sitting
+Enemy: Overwhelm
+Voice: Direct over polite – Demonstrate, don't speculate
